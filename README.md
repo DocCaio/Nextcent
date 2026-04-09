@@ -1,2 +1,1 @@
-# Nextcent
-Lading page
+## Nextcent
