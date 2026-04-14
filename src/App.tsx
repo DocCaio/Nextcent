@@ -1,5 +1,6 @@
 
 import './App.css'
+import Business from './components/Business'
 import ClientsSection from './components/Clients'
 
 import Hero from './components/Hero'
@@ -10,10 +11,12 @@ function App() {
 
   return (
     <>
+    <div className='app'>
      <NavBar/>
      <Hero/>
      <ClientsSection/>
-
+     <Business/>
+     </div>
     </>
   )
 }
