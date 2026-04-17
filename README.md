@@ -18,7 +18,7 @@ Landing page minimalista construída com React, TypeScript e Tailwind CSS.
 
 ## 📸 Preview
 
-> _Adicione aqui um screenshot ou GIF da aplicação_
+<img src="https://github.com/DocCaio/Nextcent/blob/main/src/assets/print.png" atl="print do projeto"/>
 
 ---
 
