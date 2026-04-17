@@ -13,10 +13,8 @@ const Business = () => {
   ];
 
   return (
-    <section className="bg-[#F5F7FA] py-16 px-4 md:px-16 lg:px-36 flex flex-col md:flex-row items-center justify-between gap-12">
-      
-    
-      <div className="max-w-md text-center md:text-left">
+    <section className="bg-[#F5F7FA] py-16">
+  <div className="max-w-7xl mx-auto px-6 sm:px-10 lg:px-16 flex flex-col md:flex-row items-center gap-12">
         <h3 className="text-3xl md:text-4xl font-semibold text-[#4D4D4D] leading-tight">
           Helping a local <br />
           <span className="text-[#4CAF50]">business reinvent itself</span>

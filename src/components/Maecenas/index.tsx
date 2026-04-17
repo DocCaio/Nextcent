@@ -12,8 +12,8 @@ const Maecenas = () => {
   const logos = [Logo, Logo2, Logo3, Logo4, Logo5, Logo6];
 
   return (
-    <section className="bg-slate-50 py-16 px-4 md:px-8 lg:px-32">
-      <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center gap-8 lg:gap-16">
+  <section className="bg-slate-50 py-16">
+  <div className="max-w-7xl mx-auto px-6 sm:px-10 lg:px-16 flex flex-col md:flex-row items-center gap-8 lg:gap-16">
         
       
         <div className="w-full md:w-1/3 flex justify-center">

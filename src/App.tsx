@@ -8,6 +8,7 @@ import Hero from './components/Hero'
 import KnowHow from './components/KnowHow'
 import Maecenas from './components/Maecenas'
 import Marketing from './components/Marketing'
+import Footer from './layout/Footer'
 import NavBar from './layout/NavBar'
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
      <Maecenas/>
      <Marketing/>
      <Demo/>
+     <Footer/>
      </div>
     </>
   )
